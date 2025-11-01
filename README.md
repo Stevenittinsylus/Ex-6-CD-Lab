@@ -72,6 +72,12 @@ int main() {
 }
 
 ```
+
+```
+t1 = a + b
+t2 = t1 - c
+
+```
 # OUTPUT
 <img width="911" height="518" alt="image" src="https://github.com/user-attachments/assets/efd3858b-1285-4772-b7b0-c85951e383f7" />
 
